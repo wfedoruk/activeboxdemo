@@ -33,7 +33,7 @@ $(function() {
         
         $("html, body").animate({
             scrollTop: elementOffset -70
-        }, 700);
+        }, 800);
         
       
         
