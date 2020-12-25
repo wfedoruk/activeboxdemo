@@ -57,9 +57,15 @@ p{
         position: fixed;
         background-color: #31344e;
        
-    
+ 
     
 }
+
+.header.fixed .header_inner {
+    padding: 15px 0;
+}
+
+
 .header_inner{
     display: flex;
     justify-content: space-between;
